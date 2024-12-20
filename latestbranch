@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang = "en">
+    <meta charset="UTF-8">
+    <title>Testing blocks</title>
+    <link rel = "stylesheet" href="position.css">
+    <body>
+        <header>
+            Testing pics
+        </header>
+        <main>
+            <div>
+                <img src="pics3.png" alt="pics 3">
+                <p> Pics 3</p>
+            </div>
+            <div>
+                <img src="pics4.png" alt="pics 4">
+                <p> Pics 4</p>
+            </div>
+            <div>
+                <img src="pics5.png" alt="pics 5">
+                <p> Pics 5</p>
+            </div>
+            <div>
+                <img src="pics6.png" alt="pics 6">
+                <p> Pics 6</p>
+            </div>
+            <div>
+                <img src="pics 8.png" alt="pics 8">
+                <p> Pics 7</p>
+            </div>
+            <div>
+                <img src="pics 8.png" alt="pics 8">
+                <p> Pics 8</p>
+            </div>
+            <div>
+                <img src="pics.jpg" alt="pics">
+                <p> Pics 9</p>
+            </div>
+        </main>
+    </body>
+</html>
